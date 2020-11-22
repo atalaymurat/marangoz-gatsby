@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Marangozi`,
+    title: `Marangozi Wood`,
     description: `Ahsap urunler ureticisi`,
     author: `marangozi.com`,
   },

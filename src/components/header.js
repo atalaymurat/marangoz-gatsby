@@ -6,7 +6,8 @@ const Header = ({ siteTitle }) => (
   <header
     style={{
       background: `black`,
-			width:'100%'
+			width:'100%',
+			zIndex:9000
     }}
   >
     <div
