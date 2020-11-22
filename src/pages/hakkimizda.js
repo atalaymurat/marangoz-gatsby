@@ -4,6 +4,7 @@ import BackgroundImage from "gatsby-background-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import "./hakkimizda.css"
 
 const Hakkimizda = ( props ) => (
 		<BackgroundImage
@@ -13,7 +14,7 @@ const Hakkimizda = ( props ) => (
   <Layout>
     <SEO title="Marangozi.com hakkinda" />
     <Link to="/">geri</Link>
-	<div>
+	<div className="black-overlay">
 
     <h1>Hakkimizda</h1>
 		<h2>Tarihce</h2>
