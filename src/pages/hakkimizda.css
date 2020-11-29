@@ -1,6 +1,6 @@
 .black-overlay {
-	display: -webkit-flex; /* Safari */
-	direction: column;
+	display: flex;
+	flex-direction: column;
 	background: rgba(0,0,0,0.60);
 	height: 100%;
 	color: white
