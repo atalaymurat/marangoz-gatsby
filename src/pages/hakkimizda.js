@@ -13,7 +13,7 @@ const Hakkimizda = props => (
 			<Link to="/">geri</Link>
 			<div className="black-overlay">
 				<h1>Hakkimizda</h1>
-				<p>hakkimizda paylasilacak bilgiler ile ilgili yazilar bu alana yazilacaktir</p>
+				<p>...</p>
 				<h2>Tarihce</h2>
 				<h2>Neden Ahsap</h2>
 				<h2>Basinda marangozi</h2>

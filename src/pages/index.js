@@ -7,11 +7,10 @@ import Img from "gatsby-image"
 
 const IndexPage = ({data}) => (
   <Layout>
-    <SEO title="marangozi ahsap acilir panjur sistemleri" />
+    <SEO title="Ahsap Panjur Sistemleri" />
     <Link to="/hakkimizda/">Hakkimizda</Link> <br />
-    <Link to="/page-2/">Page-2</Link> <br />
     <h1>Ahsap Panjur Sistemleri</h1>
-    <h2>Ic Mekan Panjur Uygulamalari</h2>
+    <h2>İç Mekan Panjur Uygulamaları</h2>
 	<p>
 	<Img 
 		fluid={data.panjur01.childImageSharp.fluid} 

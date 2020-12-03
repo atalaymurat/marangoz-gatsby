@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Marangozi Wood`,
-    description: `Ahsap urunler ureticisi`,
+    title: `Marangozi Ahşap`,
+    description: `Ahsap Panjur Üretimi`,
     author: `marangozi.com`,
   },
   plugins: [

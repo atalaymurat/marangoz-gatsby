@@ -1,3 +1,14 @@
+##Configuration
+
+1. Capistrano configuration for automated deploy
+
+gem install capistrano 
+gem install capistrano-npm
+gem install capistrano-copy-files
+
+make your username and server settings config/deploy/production.rb
+check your ssh connection to server if success
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
